@@ -9,7 +9,7 @@ We are the team behind Chat App. 5 members of Cohort 6 from the Bright Network T
 
 * April
 	* [Github](https://github.com/AprilGar)
-* Hangqing
+* Hanqing
 	* [Github](https://github.com/hanqing2001)
 * Joao
 	* [Github](https://github.com/joaopulsz)
